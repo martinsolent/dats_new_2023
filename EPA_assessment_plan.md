@@ -22,45 +22,26 @@ Occupational competence is outlined by the EPA grade descriptors and determine
 
 Assessment method 1 - project report with presentation, questions and answers:
 
-  - > fail
-
-<!-- end list -->
-
-  - > pass
-
-<!-- end list -->
-
-  - > distinction
+* fail
+* pass
+* distinction
 
 Assessment method 2 - professional discussion underpinned by a portfolio:
 
-  - > fail
-
-<!-- end list -->
-
-  - > pass
-
-<!-- end list -->
-
-  - > distinction
+* fail
+* pass
+* distinction
 
 The result from each assessment method is combined to decide the overall degree-apprenticeship grade. The following grades are available for the degree-apprenticeship:
 
-  - > fail
+* fail
+* pass
+* Merit
+* distinction
 
-<!-- end list -->
+### EPA summary table
 
-  - > pass
 
-<!-- end list -->
-
-  - > merit
-
-<!-- end list -->
-
-  - > distinction
-
-**EPA summary table**
 
 <table>
 <thead>
@@ -68,22 +49,22 @@ The result from each assessment method is combined to decide the overall degree-
 <th><strong>On-programme - typically 48 months</strong></th>
 <th><p>The apprentice must:</p>
 <ul>
-<li><blockquote>
+<li>
 <p>complete training to develop the knowledge, skills and behaviours (KSBs) outlined in this degree-apprenticeship’s occupational standard</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>complete training towards English and mathematics qualifications in line with the apprenticeship funding rules</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>work towards all required elements of the digital and technology solutions professional degree-apprenticeship except undertaking the EPA.</p>
-</blockquote></li>
+</li>
 </ul>
 <p>The qualification required is:</p>
 <p>Digital and Technology Solutions Professional</p>
 <ul>
-<li><blockquote>
+<li>
 <p>compile a portfolio of evidence</p>
-</blockquote></li>
+</li>
 </ul></th>
 </tr>
 </thead>
